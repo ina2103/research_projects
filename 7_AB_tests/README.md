@@ -7,7 +7,7 @@
 
 ### Навыки и инструменты
 
-АВ тестирование, проверка статистических гипотез, python, pandas, plotly, scipy, matplotlib
+    АВ тестирование, проверка статистических гипотез, python, pandas, plotly, scipy, matplotlib
 
 ## Общие положения
 
