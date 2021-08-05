@@ -7,7 +7,7 @@
 
 ### Навыки и инструменты
 
-python, pandas, matplotlib, plotly, sql
+    python, pandas, matplotlib, plotly, sql
 
 ## Общие положения
 
