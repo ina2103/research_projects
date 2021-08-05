@@ -7,7 +7,7 @@
 
 ### Навыки и инструменты
 
-описательная статистика, проверка статистических гипотез, python, pandas, matplotlib, nampy, scipy, seaborn
+    описательная статистика, проверка статистических гипотез, python, pandas, matplotlib, nampy, scipy, seaborn
 
 ## Общие положения
 
