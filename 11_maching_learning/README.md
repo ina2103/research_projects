@@ -7,7 +7,7 @@
 
 ### Навыки и инструменты
 
-машинное обучение, классификация, кластеризация, python, pandas, scilit-learn, matplotlib, seaborn, plotly, scipy
+    машинное обучение, классификация, кластеризация, python, pandas, scilit-learn, matplotlib, seaborn, plotly, scipy
 
 ## Общие положения
 
