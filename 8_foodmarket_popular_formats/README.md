@@ -7,7 +7,7 @@
 
 ### Навыки и инструменты
 
-визуализация данных, python, pandas, seaborn, plotly
+    визуализация данных, python, pandas, seaborn, plotly
 
 ## Общие положения
 
