@@ -7,7 +7,7 @@
 
 ### Навыки и инструменты
 
-когортный анализ, unit-экономика, продуктовые метрики, python, pandas, matplotlib, plotly, seaborn, scipy
+    когортный анализ, unit-экономика, продуктовые метрики, python, pandas, matplotlib, plotly, seaborn, scipy
 
 ## Общие положения
 
